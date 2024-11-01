@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "esp_foc.h": "c",
+        "iqmathlib.h": "c"
+    }
+}
